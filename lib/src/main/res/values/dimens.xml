@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--以下内容取自 http://www.uisdc.com/comprehensive-material-design-note#368390-tsina-1-73915-ebfdadd9b239798c6a2035c828aafd11 -->
+    <!--遵循 Google 的 Material 设计-->
+    
+    <!--12sp 小字提示-->
+    <dimen name="font_caption">12sp</dimen>
+    <!--14sp（桌面端13sp） 正文/按钮文字-->
+    <dimen name="font_body">14sp</dimen>
+    <dimen name="font_button">14sp</dimen>
+    <!--16sp（桌面端15sp） 小标题-->
+    <dimen name="font_sub_title">16sp</dimen>
+    <!--20sp Appbar文字-->
+    <dimen name="font_app_bar">20sp</dimen>
+    <!--24sp 大标题-->
+    <dimen name="font_title">24sp</dimen>
+    <!--34sp/45sp/56sp/112sp 超大号文字-->
+    <!--<dimen name="font_"-->
+
+
+    <!--所有可操作元素最小点击区域尺寸：48dp X 48dp。-->
+    <dimen name="height_touch">48dp</dimen>
+    <!--顶部状态栏高度：24dp-->
+    <dimen name="height_status_bar">24dp</dimen>
+    <!--Appbar最小高度：56dp-->
+    <dimen name="height_min_app_bar">56dp</dimen>
+    <!--底部导航栏高度：48dp-->
+    <dimen name="height_nav_bar">48dp</dimen>
+    <!--悬浮按钮尺寸：56x56dp/40x40dp-->
+    <dimen name="size_action">56dp</dimen>
+    <dimen name="size_action_small">40dp</dimen>
+    <!--用户头像尺寸：64x64dp/40x40dp-->
+    <dimen name="size_avatar">64dp</dimen>
+    <dimen name="size_avatar_small">40dp</dimen>
+    <!--侧边抽屉到屏幕右边的距离：56dp-->
+    <dimen name="margin_drawer">56dp</dimen>
+    <!--卡片间距：8dp-->
+    <dimen name="margin_card">8dp</dimen>
+    <!--分隔线上下留白：8dp-->
+    <dimen name="margin_divider">8dp</dimen>
+    <!--大多元素的留白距离：16dp-->
+    <dimen name="margin_space">16dp</dimen>
+    <!--屏幕左右对齐基线：16dp-->
+    <dimen name="margin_screen">16dp</dimen>
+    <!--文字左侧对齐基线：72dp-->
+    <dimen name="margin_text">72dp</dimen>
+</resources>
